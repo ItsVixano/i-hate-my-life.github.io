@@ -1,2 +1,9 @@
 # i-hate-my-life.tech
-i hate my life site
+
+What it is ??
+this is a website were u can hate your own life :)
+
+
+made with love 
+@ender1324
+@ItsVixano
