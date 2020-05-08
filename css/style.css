@@ -12,3 +12,8 @@ h1 {
     font-family: 'Roboto', sans-serif;
     font-size: 50dp;
 }
+
+#navhate {
+    height: 40px;
+    width: 40px;
+}
