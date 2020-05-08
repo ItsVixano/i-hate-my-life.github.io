@@ -1,10 +1,6 @@
 # i-hate-my-life.tech
 
-What it is ??
-this is a website were u can hate your own life :)
+The official I hate my life™ website
 
 
-made with love 
-@ender1324
-@ItsVixano
-@mashed-potatoes
+<b>Made with love and owned by:</b> @ender1324, @ItsVixano, @mashed-potatoes .
