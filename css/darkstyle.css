@@ -20,3 +20,14 @@ h1.dark {
     height: 40px;
     width: 40px;
 }
+
+button.dark {
+    border: 2px solid white;
+    color: white;
+    box-shadow: 0 9px #969da8;
+}
+
+button.dark:hover {
+    background-color: red;
+    color: black;
+}

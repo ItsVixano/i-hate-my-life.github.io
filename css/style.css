@@ -17,3 +17,25 @@ h1 {
     height: 40px;
     width: 40px;
 }
+
+.cokbutton {
+    background-color: #de1212;
+    padding: 10px 10px;
+    border: 2px solid black;
+    border-width: 2px;
+    cursor: pointer;
+    box-shadow: 0 9px #999;
+    transition-duration: 0.4s;
+}
+
+.cokbutton:hover {
+    background-color: red;
+    color: white;
+}
+
+.cokbutton:active {
+    background-color: red;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+    transition-duration: 0.1s;
+  }
