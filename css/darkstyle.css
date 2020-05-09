@@ -1,0 +1,22 @@
+body.dark {
+    margin: 0px;
+    padding: 1rem;
+    background-color: black;
+    color: white;
+}
+
+p.dark {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+h1.dark {
+    font-family: 'Roboto', sans-serif;
+    font-size: 50dp;
+    color: white;
+}
+
+.dark #navhate {
+    height: 40px;
+    width: 40px;
+}
